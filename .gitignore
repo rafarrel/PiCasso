@@ -1,0 +1,8 @@
+/.idea
+/Learning
+/tests/personal
+/picasso/art_generation/style_transfer/pre_trained_model/imagenet-vgg-verydeep-19.mat
+/picasso/art_generation/style_transfer/style_models
+/picasso/art_generation/style_transfer/train2014
+/venv
+__pycache__
