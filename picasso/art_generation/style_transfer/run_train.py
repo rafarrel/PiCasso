@@ -1,3 +1,4 @@
+# From source [1]
 import picasso.art_generation.style_transfer.engine.utils as utils
 import picasso.art_generation.style_transfer.engine.vgg19 as vgg19
 import picasso.art_generation.style_transfer.engine.style_transfer_trainer as style_transfer_trainer

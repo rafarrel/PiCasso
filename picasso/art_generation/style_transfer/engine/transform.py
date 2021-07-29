@@ -1,4 +1,5 @@
 # Most code in this file was borrowed from https://github.com/lengstrom/fast-style-transfer/blob/master/src/transform.py
+# From source [1]
 
 import tensorflow as tf
 

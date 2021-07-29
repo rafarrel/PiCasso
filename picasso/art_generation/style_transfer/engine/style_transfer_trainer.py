@@ -1,5 +1,7 @@
 """
     Train style transfer model
+
+    From source [1]
 """
 
 import picasso.art_generation.style_transfer.engine.transform as transform

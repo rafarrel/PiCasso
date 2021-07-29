@@ -1,6 +1,8 @@
 """
     Run style transfer on selected content image using pre-trained
     style models.
+
+    From source [1]
 """
 import picasso.art_generation.style_transfer.engine.utils as utils
 import picasso.art_generation.style_transfer.engine.style_transfer_tester as style_transfer_tester

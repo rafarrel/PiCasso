@@ -1,5 +1,7 @@
 """
     Build the graph for style transfer.
+
+    From source [1]
 """
 import picasso.art_generation.style_transfer.engine.transform as transform
 import tensorflow as tf
