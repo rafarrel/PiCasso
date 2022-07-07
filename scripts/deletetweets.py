@@ -3,8 +3,9 @@
 
     @author Alex Farrell
 """
-from picasso.twitter.authorize import api_access
 import tweepy
+from picasso.twitter.authorize import api_access
+
 
 try:
     for status in tweepy.Cursor(api_access.user_timeline).items():
