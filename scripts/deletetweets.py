@@ -10,5 +10,7 @@ try:
     for status in tweepy.Cursor(api_access.user_timeline).items():
         api_access.destroy_status(status.id)
         print("Deleting: " + str(status.id))
+except:
+    print("ERROR: Deleting tweets failed.")
 finally:
     print("\nDone.")
